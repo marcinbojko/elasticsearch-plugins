@@ -1,5 +1,5 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.4
-LABEL version="7.17.4"
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.5
+LABEL version="7.17.5"
 LABEL release="elasticsearch-plugins"
 LABEL maintainer="marcinbojko"
 # add plugins
